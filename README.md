@@ -4,7 +4,7 @@ Join my Telegram: [LINK](https://t.me/MexicanbrScripts)
 
 ### VOOI Telegram Auto BOT SCRIPT
 
-**Link VOOI:** [LINK](https://t.me/VooiAppBot/vooi?startapp=frenID2WkVyA1) | CODE | VOw0vRB | JOj53R2 | 
+**Link VOOI:** [LINK](https://t.me/VooiAppBot/vooi?startapp=frenID2WkVyA1) | CODE | VOw0vRB | JOj53R2 | AAOWy2B | 3yZ000x | V08wDro
 
 
 **Github download:** [LINK]([https://github.com/codenewinsight/VOOI-Telegram-Bot-backed-by-Binance](https://github.com/Mexicanbr/Vooi))
